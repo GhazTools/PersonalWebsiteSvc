@@ -166,3 +166,4 @@ cython_debug/
 *.sock
 logs/
 app/logs/
+**/__pycache__
